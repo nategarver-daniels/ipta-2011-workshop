@@ -1,0 +1,16 @@
+C MODE 1
+PSRJ           mystery
+RAJ             10:20:10.0000000           
+DECJ           -60:23:00.00000             
+F0             7.1184566568994391673     1 
+F1             0                           
+PEPOCH         53128.000154803890233       
+POSEPOCH       53128.000154803890233       
+DMEPOCH        53128                       
+DM             447.33002080782087603       
+TRES           nan          
+EPHVER         5                           
+CLK            TT(TAI)
+EPHEM          DE200
+NITS           1
+NTOA           0
